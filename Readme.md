@@ -1,10 +1,15 @@
-# GitDev Finder
 
-                            A project on Introduction to React
 
-## In this project a user can view another developer's profile and check his recent repositories on Github.
+                                             A project on Introduction to React
 
+
+
+### GitDev Finder is React based web-app to view a developer's github profile.
 ### Key features:
+* Github API
+* React in frontend
+* Context API works behind the scenes(for state management)
 
-- Github API
-- React in frontend
+Check out the live hosted site [here](https://gitdevfinder416.netlify.com/).
+
+Acknowledgement : [Brad Traversy](github.com/bradtraversy)
